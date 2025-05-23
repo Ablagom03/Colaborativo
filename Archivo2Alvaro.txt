@@ -1,5 +1,3 @@
 Estamos trabajando, lo juramos
 
 Para mostrarlo, hemos hecho varios commit
-
-Voy a editar este archivo tambien
